@@ -1,0 +1,29 @@
+.controls {
+    position: absolute;
+    display: block;
+    border-style: ridge;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 10px;
+    background-color: #FA8072;
+    right: 100px;
+    top: 0px;
+}
+
+.wins {
+    position: absolute;
+    display: block;
+    width: 300px;
+    border-style: ridge;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 10px;
+    background-color: #6EFF33;
+    right: 95px;
+    top: 220px;
+}
+
+.left-sled {
+    letter-spacing: 5px;
+    text-indent: 30em;
+}
